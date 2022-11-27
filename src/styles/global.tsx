@@ -11,6 +11,7 @@ export const GlobalContainer = createGlobalStyle`
   }
   a {
     text-decoration: none;
+    color: #ffffffb7;
   }
   ul {
     list-style: none;
